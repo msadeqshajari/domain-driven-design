@@ -4,6 +4,15 @@ title: ترجمه کتاب Hands-On Domain-Driven-Design with .NET Core
 description: اقتباسی از کتاب، برای یادگیری و درک DDD
 lang: fa
 
+markdown: kramdown
+
+navigation:
+  - title: "خانه شروع"
+    url: /
+
+  - title: "فضای مساله در برابر فضای راه حل"
+    url: /ch1/sec1
+
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have plugins defined
   - jekyll-avatar
