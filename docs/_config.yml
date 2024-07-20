@@ -1,4 +1,4 @@
-remote_theme: pmarsceill/just-the-docs
+remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
 direction: rtl
 title: ترجمه کتاب آموزش دامین درایون دیزاین
 plugins:
