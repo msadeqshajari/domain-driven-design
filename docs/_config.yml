@@ -1,10 +1,10 @@
 remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
 direction: rtl
-title: ترجمه کتاب آموزش دامین درایون دیزاین
+title: ترجمه کتاب Hands-On Domain-Driven-Design with .NET Core
+description: اقتباسی از کتاب، برای یادگیری و درک DDD
+lang: fa
+
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have plugins defined
-
-
-assets:
-  css:
-    - /assets/css/custom.css
+  - jekyll-avatar
+  - jekyll-mentions
