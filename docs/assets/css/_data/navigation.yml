@@ -1,0 +1,7 @@
+- title: "خانه"
+  url: "/"
+  nav_order: 1
+
+- title: "فهرست مطالب"
+  url: "/contents/"
+  nav_order: 2
